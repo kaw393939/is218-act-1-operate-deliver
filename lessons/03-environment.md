@@ -7,6 +7,14 @@
 [Worked checkpoint](https://github.com/kaw393939/is218-act-1-operate-deliver/tree/lesson/03-environment) · [AI boundaries](../docs/assistance.md)
 
 
+## By the end you can
+
+- Select and identify a project virtual environment.
+- Install the declared test dependency through that interpreter.
+- Prove generated environment files are ignored and not tracked.
+
+**Opening retrieval (0–10):** Which program executes `python` in this terminal?
+
 ## The problem: “it works on my machine” hides dependencies
 
 Two students type `pytest`. One has the package installed globally, the other does not. We want an environment another person can recreate and an interpreter whose identity we can prove.
