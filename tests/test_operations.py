@@ -59,3 +59,13 @@ def test_subtract_negative_result():
     result = subtract(a, b)
     # Assert
     assert result == expected
+
+
+def test_add_mixed_signs():
+    # Arrange: expectation is independently calculated.
+    a, b = 8, -3
+    expected = 5
+    # Act
+    result = add(a, b)
+    # Assert
+    assert result == expected

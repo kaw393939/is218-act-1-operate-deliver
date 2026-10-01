@@ -1,6 +1,6 @@
 # Act 1: Operate and Deliver
 
-**Worked checkpoint 04: Make an assertion that can fail.** [Read the lesson](lessons/04-assertions.md). Use your own student repository for submissions.
+**Worked checkpoint 05: Make a focused issue and commit.** [Read the lesson](lessons/05-focused-commits.md). Use your own student repository for submissions.
 
 **IS218 · Weeks 1–4 · Eight 80-minute meetings**
 
