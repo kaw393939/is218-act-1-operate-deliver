@@ -1,6 +1,6 @@
 # Act 1: Operate and Deliver
 
-**Worked checkpoint 01: Find your bearings in the terminal.** [Read the lesson](lessons/01-terminal.md). Use your own student repository for submissions.
+**Worked checkpoint 02: Connect a local project to GitHub.** [Read the lesson](lessons/02-github.md). Use your own student repository for submissions.
 
 **IS218 · Weeks 1–4 · Eight 80-minute meetings**
 
