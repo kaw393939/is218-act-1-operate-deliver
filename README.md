@@ -1,6 +1,6 @@
 # Act 1: Operate and Deliver
 
-**Worked checkpoint 02: Connect a local project to GitHub.** [Read the lesson](lessons/02-github.md). Use your own student repository for submissions.
+**Worked checkpoint 03: Select and reproduce a Python environment.** [Read the lesson](lessons/03-environment.md). Use your own student repository for submissions.
 
 **IS218 · Weeks 1–4 · Eight 80-minute meetings**
 
