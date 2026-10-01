@@ -1,0 +1,77 @@
+{
+  "act": 1,
+  "weeks": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "minutes": 640,
+  "direct_minutes": 256,
+  "lessons": [
+    {
+      "id": 1,
+      "title": "Find your bearings in the terminal",
+      "branch": "lesson/01-terminal",
+      "reading": "lessons/01-terminal.md",
+      "direct_minutes": 30,
+      "tests": 0
+    },
+    {
+      "id": 2,
+      "title": "Connect a local project to GitHub",
+      "branch": "lesson/02-github",
+      "reading": "lessons/02-github.md",
+      "direct_minutes": 30,
+      "tests": 0
+    },
+    {
+      "id": 3,
+      "title": "Select and reproduce a Python environment",
+      "branch": "lesson/03-environment",
+      "reading": "lessons/03-environment.md",
+      "direct_minutes": 30,
+      "tests": 0
+    },
+    {
+      "id": 4,
+      "title": "Make an assertion that can fail",
+      "branch": "lesson/04-assertions",
+      "reading": "lessons/04-assertions.md",
+      "direct_minutes": 30,
+      "tests": 6
+    },
+    {
+      "id": 5,
+      "title": "Make a focused issue and commit",
+      "branch": "lesson/05-focused-commits",
+      "reading": "lessons/05-focused-commits.md",
+      "direct_minutes": 25,
+      "tests": 7
+    },
+    {
+      "id": 6,
+      "title": "Collaborate through a pull request",
+      "branch": "lesson/06-peer-review",
+      "reading": "lessons/06-peer-review.md",
+      "direct_minutes": 25,
+      "tests": 8
+    },
+    {
+      "id": 7,
+      "title": "Recover and verify in a fresh environment",
+      "branch": "lesson/07-recovery-ci",
+      "reading": "lessons/07-recovery-ci.md",
+      "direct_minutes": 21,
+      "tests": 8
+    },
+    {
+      "id": 8,
+      "title": "Test 1: independently build, test, and deliver",
+      "branch": "lesson/08-test-1-preparation",
+      "reading": "lessons/08-test-1-preparation.md",
+      "direct_minutes": 65,
+      "tests": 8
+    }
+  ]
+}
