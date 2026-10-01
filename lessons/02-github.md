@@ -7,6 +7,14 @@
 [Worked checkpoint](https://github.com/kaw393939/is218-act-1-operate-deliver/tree/lesson/02-github) · [AI boundaries](../docs/assistance.md)
 
 
+## By the end you can
+
+- Inspect the student repository remote before publishing.
+- Commit a focused README change and match local/remote revision identity.
+- Explain saved, staged, committed, and pushed state with evidence.
+
+**Opening retrieval (0–10):** Which of yesterday’s file changes were already commits?
+
 ## The problem: saved, committed, and published are different
 
 You saved a README. Your partner cannot see it on GitHub. Which state is missing? A local file, a local commit, and a remote commit are distinct evidence.
