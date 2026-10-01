@@ -13,7 +13,7 @@
 - Record the submitted revision and verification identity.
 - Explain environment, test expectation, and workflow scope without generated repair.
 
-**Opening retrieval (0–10):** Which final revision will the assessor actually inspect? For the assessment meeting, this is a pre-test preparation question rather than an extra timed task.
+**Before the test: preparation question:** Which final revision will the assessor actually inspect? For the assessment meeting, this is a pre-test preparation question rather than an extra timed task.
 
 ## The problem: can you own the workflow without generated repair?
 
