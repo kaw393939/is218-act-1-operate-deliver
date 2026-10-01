@@ -1,6 +1,6 @@
 # Act 1: Operate and Deliver
 
-**Worked checkpoint 07: Recover and verify in a fresh environment.** [Read the lesson](lessons/07-recovery-ci.md). Use your own student repository for submissions.
+**Worked checkpoint 08: Test 1: independently build, test, and deliver.** [Read the lesson](lessons/08-test-1-preparation.md). Use your own student repository for submissions.
 
 **IS218 · Weeks 1–4 · Eight 80-minute meetings**
 
