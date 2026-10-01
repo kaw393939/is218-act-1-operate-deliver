@@ -1,6 +1,6 @@
 # Act 1: Operate and Deliver
 
-**Worked checkpoint 05: Make a focused issue and commit.** [Read the lesson](lessons/05-focused-commits.md). Use your own student repository for submissions.
+**Worked checkpoint 06: Collaborate through a pull request.** [Read the lesson](lessons/06-peer-review.md). Use your own student repository for submissions.
 
 **IS218 · Weeks 1–4 · Eight 80-minute meetings**
 
