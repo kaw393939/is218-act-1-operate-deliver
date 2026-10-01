@@ -8,6 +8,19 @@ You need to locate the files, inspect the change, test an independently expected
 
 By the end, you will independently deliver a tested change and explain a peer's review. You will use technical vocabulary to ask better questions and recognize unsupported claims. Later acts introduce objects, design patterns, data, and larger projects on this foundation.
 
+## The habit you are building
+
+```mermaid
+flowchart LR
+    A[State a claim] --> B[Inspect the right files]
+    B --> C[Make a focused change]
+    C --> D[Check an independent expectation]
+    D --> E[Review and publish a revision]
+    E --> F[Explain evidence and limits]
+```
+
+In words: define what should happen, inspect the target, change one responsibility, check it, and hand off a revision someone else can verify. AI can help with this cycle; you own the observations and decisions.
+
 ## Start here
 
 1. Read [how to use this book](docs/how-to-use.md).
