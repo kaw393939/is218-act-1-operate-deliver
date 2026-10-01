@@ -7,7 +7,6 @@ import re
 import subprocess
 import sys
 import tempfile
-import unicodedata
 from urllib.parse import unquote
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -29,7 +28,7 @@ def anchor(title):
 def check_docs(folder):
     count = 0
     for path in folder.rglob('*.md'):
-        if any(part.startswith('.') for part in path.relative_to(folder).parts):
+        if any(part in {'.git', '.venv', '__pycache__', '.pytest_cache'} for part in path.relative_to(folder).parts):
             continue
         body = path.read_text()
         for target in re.findall(r'\[[^\]]*\]\(([^)]+)\)', body):
