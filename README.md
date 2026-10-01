@@ -1,5 +1,7 @@
 # Act 1: Operate and Deliver
 
+**Worked checkpoint 01: Find your bearings in the terminal.** [Read the lesson](lessons/01-terminal.md). Use your own student repository for submissions.
+
 **IS218 · Weeks 1–4 · Eight 80-minute meetings**
 
 You ask an AI assistant to fix your program. It says “done.” What would convince you?
