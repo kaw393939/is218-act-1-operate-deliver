@@ -7,6 +7,14 @@
 [Worked checkpoint](https://github.com/kaw393939/is218-act-1-operate-deliver/tree/lesson/01-terminal) · [AI boundaries](../docs/assistance.md)
 
 
+## By the end you can
+
+- Locate a file from two starting directories using predicted relative paths.
+- Distinguish an inspecting command from a command that changes state.
+- Verify that editor and terminal show the same saved file.
+
+**Opening retrieval (0–10):** Where would a relative filename be created from your current directory?
+
 ## The problem: the right command in the wrong folder
 
 An editor shows your project, but the terminal is somewhere else. Predict where `notes.txt` would land before creating it. Your goal is to explain locations without relying on an AI agent's guess.

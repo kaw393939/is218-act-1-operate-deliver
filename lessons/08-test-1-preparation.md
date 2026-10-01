@@ -7,6 +7,14 @@
 [Worked checkpoint](https://github.com/kaw393939/is218-act-1-operate-deliver/tree/lesson/08-test-1-preparation) · [AI boundaries](../docs/assistance.md)
 
 
+## By the end you can
+
+- Independently deliver the announced small implementation and tests.
+- Record the submitted revision and verification identity.
+- Explain environment, test expectation, and workflow scope without generated repair.
+
+**Opening retrieval (0–10):** Which final revision will the assessor actually inspect? For the assessment meeting, this is a pre-test preparation question rather than an extra timed task.
+
 ## The problem: can you own the workflow without generated repair?
 
 The official test measures a bounded independent build–test–deliver task. It is not a speed contest for recreating every textbook command, and a green materials workflow is not proof of application behavior.

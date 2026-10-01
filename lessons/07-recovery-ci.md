@@ -7,6 +7,14 @@
 [Worked checkpoint](https://github.com/kaw393939/is218-act-1-operate-deliver/tree/lesson/07-recovery-ci) · [AI boundaries](../docs/assistance.md)
 
 
+## By the end you can
+
+- Distinguish unstaging from reverting with a disposable observation.
+- Recreate a submitted revision in a fresh clone and environment.
+- Identify the failing workflow step and one limit of CI evidence.
+
+**Opening retrieval (0–10):** Which recovery step preserves your uncommitted edit?
+
 ## The problem: failure has more than one layer
 
 A workflow is red. Did dependency installation fail, did the program import incorrectly, or did an assertion expose wrong behavior? Recovery begins by identifying the state and failing stage.

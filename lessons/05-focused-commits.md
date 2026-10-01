@@ -7,6 +7,14 @@
 [Worked checkpoint](https://github.com/kaw393939/is218-act-1-operate-deliver/tree/lesson/05-focused-commits) · [AI boundaries](../docs/assistance.md)
 
 
+## By the end you can
+
+- State one issue with observable acceptance checks.
+- Selectively stage and inspect a focused change.
+- Explain which edit belongs to the commit and which remains outside it.
+
+**Opening retrieval (0–10):** Can a commit message prove its actual contents?
+
 ## The problem: a commit silently includes unrelated work
 
 You improved a test and edited learning notes. Should both be part of the same proposed change? A focused commit lets a reviewer inspect a claim without unrelated noise.
