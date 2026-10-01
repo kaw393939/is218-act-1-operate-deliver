@@ -7,6 +7,14 @@
 [Worked checkpoint](https://github.com/kaw393939/is218-act-1-operate-deliver/tree/lesson/06-peer-review) · [AI boundaries](../docs/assistance.md)
 
 
+## By the end you can
+
+- Author and review a bounded PR in rotated roles.
+- Connect a review comment to a test claim or documentation gap.
+- Respond to feedback and verify the integrated revision.
+
+**Opening retrieval (0–10):** What could a green test run leave unreviewed?
+
 ## The problem: “looks good” is not a review
 
 Your partner's tests are green. You still need to inspect whether they check the intended behavior. A pull request connects authorship, discussion, revision, and integration.
@@ -23,6 +31,17 @@ Pair on **one student's repository** for this weekly assignment. The owner grant
 2. Reviewer B reads the diff, checks the expected value independently, and checks out the feature branch in their own clone to run tests. They leave a concrete review comment. Example: “The mixed-sign case is correct; document which existing test covers zero so a reader can find that evidence.” Identify a real gap rather than demanding an unnecessary feature.
 3. Author A addresses the comment in a focused follow-up commit, reruns tests, and replies with the evidence. Reviewer B inspects the follow-up before approving. The author merges using GitHub after review and passing checks available at this stage.
 4. In each local clone, switch to `main`, run `git pull --ff-only`, rerun tests, and record the integrated SHA.
+
+For Reviewer B's fresh clone, inspect the remote and obtain the first branch before reviewing:
+
+```bash
+git remote -v
+git fetch origin
+git switch --track origin/feature/mixed-sign-addition
+python -m pytest -q
+```
+
+If that local tracking branch already exists, switch to it by name and inspect whether it matches the pushed revision. A reviewer should not repair the author's branch silently; request a follow-up through the PR.
 
 Then rotate. Author B opens an issue and branch adding an eighth explicit test `subtract(5, 0) == 5`; Reviewer A performs the same review/response/integration process. Complete the second round during the integration block or weekly assignment time if needed.
 

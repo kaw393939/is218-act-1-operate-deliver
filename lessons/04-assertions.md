@@ -7,6 +7,14 @@
 [Worked checkpoint](https://github.com/kaw393939/is218-act-1-operate-deliver/tree/lesson/04-assertions) · [AI boundaries](../docs/assistance.md)
 
 
+## By the end you can
+
+- Implement the stated ordered arithmetic contract.
+- Write six explicit tests with independently expected results.
+- Interpret an observed assertion failure and repair the defective behavior.
+
+**Opening retrieval (0–10):** What is the independent expected value of subtract(2, 5)?
+
 ## The problem: running without crashing does not establish correctness
 
 A function returns a number. Was it the right number? A contract and independently expected examples let us decide.
